@@ -1,6 +1,7 @@
 {
     "name": "torch",
     "package": "torch",
+    "index": "torch7-index.html",
     "selectors": {
         ".markdown-body h3": "Function",
         ".markdown-body h2": {
